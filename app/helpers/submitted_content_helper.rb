@@ -118,5 +118,5 @@ module SubmittedContentHelper
     end
   # rescue
   # end
-end
+  end
 end
