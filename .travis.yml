@@ -19,6 +19,7 @@ rvm:
 branches:
   only:
     - master
+    - palash
     - beta
 before_install:
   - uname -a
